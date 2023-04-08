@@ -17,7 +17,6 @@ In this project, I created a virtual machine in Azure and viewed the created top
 - Fill in the required fields on the “Basics” page
 - Click “Review + create”
 - Click “Create” if the VM has passed validation
-- View newly created VM in Network Watcher
 - Delete Resource Groups to minimize charges to free Azure credits
 
 <h2>Synopsis</h2>
