@@ -39,7 +39,7 @@ On this page, we are creating the Virtual Machine name, choosing which region yo
 <img src="https://i.imgur.com/6f03xzN.png"/>
 </p>
 <p>
-The first page is the “Basics” page, where I filled in the required fields. For the Resource group, I made a new one by selecting “Create new” and also selected an appropriate region based on my location. The location you select can affect your options for the “Size” field, so this may need to be tinkered with a little. Don’t forget to check the box under Licensing! Once I was done filling this page out, I clicked “Review + create.”
+This is where we choose the right "Size" for how many Virtual Machines are required. We also added a Username and Password. These are needed if when you are opening your Virtual Machine on the Remote Desktop. Click the licensing box. I finished this section by clicking the "Review + Create" button.
 </p>
 <br />
 
@@ -63,7 +63,7 @@ It took a bit of time for the VM to be set up by Azure, but once it was done, I 
 <img src="https://i.imgur.com/WrBFPuz.png"/>
 </p>
 <p>
-Out of curiosity, I viewed the various components of my new VM using Network Watcher in Azure. As you can see, when you create a VM, it’s not just the virtual machine itself that is created. Along with the VM (VM-1), Azure also created a virtual network (VM-Lab-vnet), a subnet (default), a virtual NIC (vm-1960), a Network Security Group a.k.a. firewall (VM-1-nsg), and a public IP address (VM-1-ip).
+ I then went to Netork Watcher for a visual of all the components that make up the Virtual Machine. These components consist of Virtual Network, subnet (default), a virtual NIC, a network group aka Firewall, and public IP address.
 </p>
 <br />
 
