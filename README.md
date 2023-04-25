@@ -25,7 +25,7 @@ I will rehearse the steps on how to create a Virtual Machine in Azure in this pr
 <img src="https://i.imgur.com/7YL2c9Z.png"/>
 </p>
 <p>
-Step 1: First, I logged into my Azure portal account. I then searched for virtual machines in the search bar in the Azure portal. Clicked on Virtual Machines and then clicked on "Create New Virtual Machines".
+Step 1: First, I logged into my Azure portal account. I then searched for virtual machines in the search bar in the Azure portal. Clicked on Virtual Machines and then clicked on "Create New Virtual Machines". The Resource Group was created on its own while going trhough this process.
 </p>
 <br />
 
