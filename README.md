@@ -25,12 +25,15 @@ I will rehearse the steps on how to create a Virtual Machine in Azure in this pr
 <img src="https://i.imgur.com/7YL2c9Z.png"/>
 </p>
 <p>
-First, I logged into my Azure portal account. I then searched for virtual machines in the search bar in the Azure portal. Clicked on Virtual Machines and then clicked on "Create New Virtual Machines".
+Step 1: First, I logged into my Azure portal account. I then searched for virtual machines in the search bar in the Azure portal. Clicked on Virtual Machines and then clicked on "Create New Virtual Machines".
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/RnDe4RE.png"/>
+</p>
+<p>
+On this page, we are creating the Virtual Machine name, choosing which region you are in, and selecting the proper image.
 </p>
 <p>
 <img src="https://i.imgur.com/6f03xzN.png"/>
